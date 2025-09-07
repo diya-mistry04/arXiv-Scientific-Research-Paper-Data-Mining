@@ -1,7 +1,7 @@
 # arXiv-Scientific-Research-Paper-Data-Mining
-Application of various data mining and machine learning techniques learned in class to enhance the organization and comprehension of scientific literature. 
+Application of various data mining and machine learning techniques to enhance the organization and comprehension of scientific literature. 
 
-## To meet these objectives, we accomplish the following goals:
+## Goals:
 Topic Modelling and Dimensionality Reduction: Use TF-IDF and LDA topic modeling to discover recurring dominant themes and emerging research areas
 
 Research Paper Category Classification: Train a model to automatically classify research papers using information given in the title and summary.
